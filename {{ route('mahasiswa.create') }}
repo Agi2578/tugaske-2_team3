@@ -1,0 +1,1 @@
+Route::get('/mahasiswa/create', 'MahasiswaController@create')->name('mahasiswa.create');
